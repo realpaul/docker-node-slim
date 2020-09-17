@@ -1,1 +1,1 @@
-# docker-node-slim
+# Dockerized Slim Node.js

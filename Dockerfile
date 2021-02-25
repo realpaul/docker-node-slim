@@ -1,4 +1,4 @@
-FROM node:14.15.4-slim
+FROM node:14.16.0-slim
 
 RUN apt-get update \
     && apt-get install build-essential python -y \
